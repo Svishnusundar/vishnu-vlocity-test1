@@ -1,0 +1,34 @@
+{
+    "AuthorName": "Copado_Limited",
+    "ClonedFromOmniUiCardKey": "",
+    "CurrencyIsoCode": "USD",
+    "DataSourceConfig": {
+        "dataSource": {
+            "contextVariables": [
+            ],
+            "orderBy": {
+            },
+            "type": null,
+            "value": {
+            }
+        }
+    },
+    "Description": "",
+    "IsLocked": false,
+    "IsManagedUsingStdDesigner": false,
+    "IsTrackingEnabled": false,
+    "MayEdit": true,
+    "Name": "Vishnu_MAR30_DATA",
+    "Namespace": "",
+    "OmniUiCardKey": "Vishnu_MAR30_DATA/Copado_Limited/1.0",
+    "OmniUiCardType": "Parent",
+    "OverrideKey": "",
+    "PropertySetConfig": "Vishnu_MAR30_DATA.json",
+    "SampleDataSourceResponse": "",
+    "StylingConfiguration": "",
+    "UniqueName": "Vishnu_MAR30_DATA_Copado_Limited_1",
+    "VersionNumber": 1,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniUiCard",
+    "VlocityRecordSourceKey": "OmniUiCard/Vishnu_MAR30_DATA"
+}
