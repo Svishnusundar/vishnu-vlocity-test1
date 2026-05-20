@@ -4,5 +4,21 @@
         <members>VishnuDeleteMe5</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>VishnuTriggerDeleteMe1</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>Account.Test_Field3__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Account_Flexipage</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>Account-Account Layout Clone</members>
+        <name>Layout</name>
+    </types>
     <version>66.0</version>
 </Package>
